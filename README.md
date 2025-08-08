@@ -6,15 +6,13 @@ Molyhub is an open-source collection of **AI prompts, workflows, and automation 
 
 Whether you want to **boost productivity at work**, **automate repetitive tasks**, or **build something fun**, you'll find ready-to-use resources here to inspire and empower your AI journey.
 
----
-
 ## 🌟 Features
 
 - **1000+ Curated AI Use Cases**  
   Covering **Marketing, Business, Development, Design, Legal, Data, Education, and Entertainment**.
 
 - **Multi-Tool Support**  
-  Works with ChatGPT, Claude, Gemini, Cursor, n8n, Make, Zapier, Midjourney, DALL·E, etc.
+  Works with ChatGPT, Claude, Gemini, Cursor, n8n, Zapier, Midjourney, DALL·E, etc.
 
 - **Easy to Use**  
   Copy, paste, and run — or customize prompts/workflows to your needs.
@@ -22,10 +20,10 @@ Whether you want to **boost productivity at work**, **automate repetitive tasks*
 - **Bilingual Content**  
   English + 中文双语支持。
 
----
 
 ## 📂 Repository Structure
 
+```
 molyGPT/
 │
 ├── prompts/            # AI prompts (by category and tool)
@@ -38,14 +36,14 @@ molyGPT/
 │   ├── education/
 │   └── entertainment/
 │
-├── workflows/          # Automation workflows (n8n, Make, Zapier, etc.)
+├── workflows/          # Automation workflows (n8n, Zapier, etc.)
 │
 ├── templates/          # Ready-to-use AI templates
 │
 └── docs/               # Guides and tutorials
 
+```
 
----
 
 ## 🚀 Getting Started
 
@@ -65,16 +63,16 @@ Each prompt comes with:
 
 ### 3. Run workflows
 	•	n8n workflows: Import .json files into your n8n instance
-	•	Make/Zapier: Follow instructions in docs/
+	•	Zapier: Follow instructions in docs/
 
 
 ## Example Use Cases
-	•	Marketing: Generate 30 days of social media content in 5 minutes
-	•	Business: Draft a business plan from bullet points
-	•	Legal: Review contracts for risky clauses
-	•	Data: Automate spreadsheet cleaning
-	•	Development: Build a game prototype with AI-generated code
-	•	Entertainment: Create a custom D&D storyline
+- Marketing: Generate 30 days of social media content in 5 minutes
+- Business: Draft a business plan from bullet points
+- Legal: Review contracts for risky clauses
+- Data: Automate spreadsheet cleaning
+- Development: Build a game prototype with AI-generated code
+- Entertainment: Create a custom D&D storyline
 
 ## 🤝 Contributing
 
@@ -89,5 +87,3 @@ How to contribute
 	2.	Create a new branch (feature/my-new-prompt)
 	3.	Commit your changes
 	4.	Open a Pull Request
-
-
