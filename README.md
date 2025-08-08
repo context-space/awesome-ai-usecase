@@ -1,6 +1,6 @@
 # 🌠Molyhub
 
-**Discover What AI can do for you!1000+ Use Cases to Inspire, Play, and Create**
+**Discover What AI can do for you! 1000+ Use Cases to Inspire, Play, and Create**
 
 Molyhub is an open-source collection of **AI prompts, workflows, and automation templates** designed to help you get the most out of tools like **ChatGPT, Claude, Gemini, Cursor, n8n, Midjourney, and more**.
 
